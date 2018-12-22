@@ -20,6 +20,9 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <section id="main">
+          MAIN
+        </section>
         <footer>
           footer
         </footer>
