@@ -23,9 +23,6 @@ class App extends Component {
         <section id="main">
           MAIN
         </section>
-        <footer>
-          footer
-        </footer>
       </div>
     );
   }
