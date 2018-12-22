@@ -7,6 +7,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>Hello world</h1>
+          <h3>Welcome to the test react app!</h3>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
