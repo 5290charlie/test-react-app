@@ -24,6 +24,7 @@ class App extends Component {
             <li>c</li>
             <li>d</li>
             <li>e</li>
+            <li>f</li>
           </ul>
         </header>
       </div>
