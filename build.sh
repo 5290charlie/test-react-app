@@ -22,6 +22,6 @@ echo "Finished production build"
 
 echo "Sleep a bit ... for good measure"
 
-sleep 2
+sleep 1
 
 echo "DONE"
