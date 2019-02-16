@@ -6,6 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
+          <h1>{ process.env.REACT_APP_NAME || 'App Name' }</h1>
           <h3>Welcome to the test react app!</h3>
           <p>
             Edit <code>src/App.js</code> and save to reload.
